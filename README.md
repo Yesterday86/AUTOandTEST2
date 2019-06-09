@@ -17,3 +17,5 @@ the industry's standard dummy text ever since the 1500s
 16
 
 Запускал через Eclipse с рабочим окружением Eclipse IDE 2019‑03, Java SE Development Kit 12.0.1
+
+Ссылка на список проверок: https://docs.google.com/document/d/1wAYJS2Pj0_bb3GQlgFuM0ZkA9eKbGI0TvqlNlguuWrM/edit?usp=sharing
