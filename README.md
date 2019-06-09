@@ -11,7 +11,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 the industry's standard dummy text ever since the 1500s
 
 Выходные данные: 
-Количество слов в первой строке
+Количество слов в первой строке.
 
 Пример: 
 16
